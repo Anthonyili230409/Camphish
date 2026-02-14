@@ -34,7 +34,7 @@ apt-get -y install php wget unzip
 
 ```
 git clone https://github.com/Anthonyili230409/Camphish
-cd CamPhish
+cd Camphish
 bash camphish.sh
 ```
 
