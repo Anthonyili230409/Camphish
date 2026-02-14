@@ -33,8 +33,8 @@ apt-get -y install php wget unzip
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://github.com/Anthonyili230409/Camphish
-cd Camphisher
+git clone https://github.com/Anthonyili230409/Camphisher
+cd CamPhish
 bash camphish.sh
 ```
 
